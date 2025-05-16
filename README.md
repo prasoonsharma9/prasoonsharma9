@@ -33,8 +33,9 @@
 
 ### 🔗 Let's Connect
 
-- [🔗 LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prasoon-kumar-sharma-405655258/))  
+- [🔗 LinkedIn](https://www.linkedin.com/in/prasoon-kumar-sharma-405655258/)
 
 ---
+
 
 ⭐️ Star this repo to support my work!
