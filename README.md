@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Kumar+Sharma!;Web+Developer+%7C+Programmer+%7C+Tech+Lover;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Kumar+Sharma!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +31,7 @@
 
 ### 🔗 Let's Connect
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [🌐 Portfolio](https://yourportfolio.com)
+- [🔗 LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prasoon-kumar-sharma-405655258/))  
 
 ---
 
