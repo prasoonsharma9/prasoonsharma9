@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,cpp,python,git,github,vscode" />
 </p>
 
 ---
@@ -24,12 +24,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasoonkumarsharma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasoonsharma9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/prasoon-kumar-sharma-405655258/))
+- [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [🌐 Portfolio](https://yourportfolio.com)
 
+---
+
+⭐️ Star this repo to support my work!
