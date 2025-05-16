@@ -23,12 +23,12 @@
 
 ### 📈 GitHub Stats
 
-![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasoonkumarsharma&show_icons=true&theme=radical)
+[![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasoonkumarsharma&show_icons=true&theme=radical)](https://github.com/prasoonsharma9)
 
 ---
 
 ### 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/prasoon-kumar-sharma-405655258/)
+
 
