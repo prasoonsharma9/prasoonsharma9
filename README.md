@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=0&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Kumar+Sharma!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=0&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasoon+Kumar+Sharma!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE Student at ABES Engineering College  
+- 🎓 CS Student at ABES Engineering College  
 - 💻 Passionate about Web Development and Software Development  
 - 🛠️ I love building projects with React, Node.js, and C++
 
